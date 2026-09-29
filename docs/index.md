@@ -13,6 +13,9 @@ Welcome to the user documentation for the SIESTA platform. This guide explains h
 - [Quickstart](quickstart.md)
 - [Access the platform](access.md)
 - [Explore the dashboard](dashboard.md)
+- [Service catalog](catalog/index.md)
+- [S3 storage](s3-storage.md)
+- [Secret management](secret-management.md)
 - [Roles and permissions](roles.md)
 
 ## Service catalog
@@ -45,7 +48,9 @@ This work is funded by the European Union through the SIESTA project (Horizon Eu
 quickstart
 access
 dashboard
-roles
+secret-management
+s3-storage
 catalog/index
+roles
 support
 ```

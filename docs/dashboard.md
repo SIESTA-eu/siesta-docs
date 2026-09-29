@@ -2,12 +2,6 @@
 
 The dashboard is built on Onyxia and provides the SIESTA user interface. The navigation is organized into the following sections; some may require sign-in or specific permissions.
 
-## Dashboard tour
-
-Watch this demo to see how to sign in and navigate the dashboard:
-
-```{youtube-thumbnail} https://www.youtube.com/watch?v=Tp3ORAHH0cY
-```
 
 <table style="width: fit-content; max-width: 100%; margin-left: 0; margin-right: auto;">
 	<thead>
@@ -33,4 +27,19 @@ In **Service catalog**, you can review specific services. Each service card incl
 2. Check the configuration options it requires.
 3. Do not submit sensitive data.
 
+## Dashboard tour
+
+Watch this demo to see how to sign in and navigate the dashboard:
+
+```{youtube-thumbnail} https://www.youtube.com/watch?v=Tp3ORAHH0cY
+```
+
+## S3 storage
+
+SIESTA's S3 storage is provided by [MinIO](https://minio.cloud.eosc-siesta.eu) and is available directly from the dashboard's [**File Explorer**](https://dashboard.cloud.eosc-siesta.eu/file-explorer) section. S3 storage quotas vary by access group. Your assigned group determines the quota available to your account. See the [S3 storage page](s3-storage.md) for details and [Roles and permissions](roles.md) for the group definitions and quota table.
+
+
+## Secret management
+
+The dashboard's **My Secrets** section provides access to [Vault](https://vault.deployments.cloud.eosc-siesta.eu), SIESTA's secret-management service. See [Secret management](secret-management.md) for details.
 

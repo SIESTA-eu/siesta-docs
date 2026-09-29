@@ -2,6 +2,11 @@
 
 This page presents the general-purpose tools available in the dashboard.
 
+```{image} /_static/general_catalog.png
+:alt: SIESTA dashboard general catalog
+:width: 800px
+```
+
 ## Common configuration
 
 All the services listed below share some generic deployment options, mainly:
@@ -24,7 +29,7 @@ Use it for command-line work, running scripts, installing packages or testing to
 
 ## Xfce-desktop
 
-Lightweight [XFCE](https://xfce.org/) desktop environment that exposes a VNC endpoint. It is designed to be accessed through [Guacamole](#guacamole) from the browser.
+Lightweight [XFCE](https://xfce.org/) desktop environment that exposes a VNC endpoint. It is designed to be accessed through [Apache Guacamole](https://guacamole.apache.org/) from the browser.
 
 Use it when you need a graphical interface but want to keep resource usage low.
 
