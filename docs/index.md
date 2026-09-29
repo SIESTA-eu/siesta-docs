@@ -19,12 +19,12 @@ Welcome to the user documentation for the SIESTA platform. This guide explains h
 
 The catalog may change as services are published or updated. Always check the [dashboard catalog](https://dashboard.cloud.eosc-siesta.eu/catalog) to access available services.
 
-- [General tools](catalog/general.md)
-- [Privacy Tools Catalog](catalog/privacy.md)
-- [Text anonymization](catalog/text-anonymization.md)
-- [Medical tools](catalog/medical.md)
-- [Epidemiology](catalog/epidemiology.md)
-- [Energy forecasting](catalog/energy.md)
+- [General tools catalog](catalog/general.md)
+- [Privacy tools catalog](catalog/privacy.md)
+- [Text anonymization catalog](catalog/text-anonymization.md)
+- [Medical imaging tools catalog](catalog/medical.md)
+- [Epidemiology catalog](catalog/epidemiology.md)
+- [Energy forecasting catalog](catalog/energy.md)
 
 ## Help
 
