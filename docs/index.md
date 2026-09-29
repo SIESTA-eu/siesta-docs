@@ -1,7 +1,3 @@
-```{image} /_static/EOSCSiesta_PosColour.png
-:alt: EOSC-SIESTA logo
-:width: 400px
-```
 # SIESTA User Guide
 
 Welcome to the user documentation for the SIESTA platform. This guide explains how to access the dashboard and get started with services for managing sensitive data.
