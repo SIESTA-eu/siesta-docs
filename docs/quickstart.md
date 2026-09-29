@@ -1,4 +1,4 @@
-# Quickstart: your first steps
+# Quickstart
 
 This guide takes you from accessing the dashboard to launching a service.
 
