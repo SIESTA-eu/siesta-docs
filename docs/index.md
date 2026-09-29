@@ -17,8 +17,6 @@ Welcome to the user documentation for the SIESTA platform. This guide explains h
 
 ## Service catalog
 
-The catalog may change as services are published or updated. Always check the [dashboard catalog](https://dashboard.cloud.eosc-siesta.eu/catalog) to access available services.
-
 - [General tools catalog](catalog/general.md)
 - [Privacy tools catalog](catalog/privacy.md)
 - [Text anonymization catalog](catalog/text-anonymization.md)
