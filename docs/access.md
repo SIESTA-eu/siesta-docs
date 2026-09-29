@@ -1,6 +1,6 @@
 # Access the platform
 
-The main entry point for users is the [SIESTA dashboard](https://dashboard.cloud.eosc-siesta.eu/). The portal brings together tools and services intended to facilitate the secure sharing of sensitive data.
+The main entry point for users is the [SIESTA dashboard](https://dashboard.cloud.eosc-siesta.eu/). The portal brings together tools and services intended to facilitate the secure management of data.
 
 ```{image} /_static/dashboard_login.png
 :alt: SIESTA dashboard main page with the login button
