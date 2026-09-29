@@ -1,6 +1,6 @@
 # Privacy Tools Catalog
 
-The **Privacy Tools Catalog** brings together the privacy tools available in SIESTA.
+The **Privacy Tools Catalog** brings together the privacy tools available in SIESTA. All the tools listed below can also be installed and used locally.
 
 ## Services available
 
@@ -11,7 +11,8 @@ A tool for anonymizing tabular data. It supports nine anonymization techniques: 
 **Resources:**
 
 - [GitHub repository](https://github.com/IFCA-Advanced-Computing/anjana)
-- [Documentation](https://anjana.readthedocs.io/en/latest/)
+- [Documentation](https://anjana.readthedocs.io/en/latest/) 
+- [Paper: "An Open Source Python Library for Anonymizing Sensitive Data"](https://www.nature.com/articles/s41597-024-04019-z)
 
 **Demo:**
 
@@ -25,6 +26,7 @@ It provides an interactive interface for checking a tabular dataset's level of a
 **Resources:** 
 - [GitHub repository](https://github.com/IFCA-Advanced-Computing/pycanon)
 - [Documentation](https://pycanon.readthedocs.io/)
+- [Paper: "A Python library to check the level of anonymity of a dataset"](https://www.nature.com/articles/s41597-022-01894-2)
 
 **Demo:**
 

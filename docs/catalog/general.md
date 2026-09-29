@@ -65,4 +65,4 @@ Service built for a specific use case of a federated learning client: **powdery 
 
 Each client trains locally on data from a single Protected Designation of Origin (PDO), so raw observations are never shared. Only model weights are exchanged, using [Flower](https://flower.ai/), with a central server deployed on the AI4EOSC platform.
 
-This use case is developed in collaboration with the EOSC TITAN project.
+This use case is developed in collaboration with the [EOSC TITAN project](https://eosc-titan.eu/).
