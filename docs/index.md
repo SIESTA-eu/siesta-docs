@@ -22,7 +22,7 @@ The catalog may change as services are published or updated. Always check the [d
 - [General tools catalog](catalog/general.md)
 - [Privacy tools catalog](catalog/privacy.md)
 - [Text anonymization catalog](catalog/text-anonymization.md)
-- [Medical imaging tools catalog](catalog/medical.md)
+- [Medical imaging catalog](catalog/medical.md)
 - [Epidemiology catalog](catalog/epidemiology.md)
 - [Energy forecasting catalog](catalog/energy.md)
 

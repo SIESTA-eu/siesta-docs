@@ -11,7 +11,7 @@ The initial review found the following areas/repositories associated with SIESTA
 | General tools | [General tools](general.md) |
 | Privacy tools | [Privacy Tools Catalog](privacy.md) |
 | Text anonymization | [Text anonymization](text-anonymization.md) |
-| Medical domain tools | [Medical tools](medical.md) |
+| Medical imaging tools | [Medical imaging catalog](medical.md) |
 | Epidemiology tools | [Epidemiology](epidemiology.md) |
 | Energy domain tools | [Energy forecasting](energy.md) |
 

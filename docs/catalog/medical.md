@@ -1,4 +1,4 @@
-# Medical domain tools catalog
+# Medical imaging catalog
 
 ## DatLeak
 
