@@ -10,7 +10,7 @@ Welcome to the user documentation for the SIESTA platform. This guide explains h
 
 ## Get started
 
-- [Quickstart: your first steps](quickstart.md)
+- [Quickstart](quickstart.md)
 - [Access the platform](access.md)
 - [Explore the dashboard](dashboard.md)
 - [Roles and permissions](roles.md)
