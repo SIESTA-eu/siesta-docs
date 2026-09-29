@@ -8,12 +8,12 @@ The initial review found the following areas/repositories associated with SIESTA
 
 | Area | Guide |
 |---|---|
-| General tools | [General tools](general.md) |
-| Privacy tools | [Privacy Tools Catalog](privacy.md) |
-| Text anonymization | [Text anonymization](text-anonymization.md) |
+| General tools | [General tools catalog](general.md) |
+| Privacy tools | [Privacy tools catalog](privacy.md) |
+| Text anonymization tools | [Text anonymization catalog](text-anonymization.md) |
 | Medical imaging tools | [Medical imaging catalog](medical.md) |
-| Epidemiology tools | [Epidemiology](epidemiology.md) |
-| Energy domain tools | [Energy forecasting](energy.md) |
+| Epidemiology tools | [Epidemiology catalog](epidemiology.md) |
+| Energy domain tools | [Energy forecasting catalog](energy.md) |
 
 Catalog repositories are maintained in [GitLab: onyxia-catalogs](https://gitlab.ifca.es/eosc-siesta/onyxia-catalogs).
 
