@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Sphinx build output
+_build/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Local editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
