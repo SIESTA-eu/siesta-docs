@@ -1,6 +1,6 @@
 # Service catalog
 
-The [dashboard catalog](https://dashboard.cloud.eosc-siesta.eu/catalog) presents the catalogs available on the platform. Access to some catalogs may depend on your access level. The privacy tools catalog is available at the lowest access level and is the main entry point for accessing services deployed within SIESTA.
+The [dashboard catalog](https://dashboard.cloud.eosc-siesta.eu/catalog) presents the catalogs available on the platform. Access to some catalogs may depend on your access level. The privacy tools catalog is available at the lowest access level.
 
 ## Catalogs available
 
