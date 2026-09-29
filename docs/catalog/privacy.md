@@ -1,4 +1,4 @@
-# Privacy Tools Catalog
+# Privacy tools catalog
 
 The **Privacy Tools Catalog** brings together the privacy tools available in SIESTA. All the tools listed below can also be installed and used locally.
 
