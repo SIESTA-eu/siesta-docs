@@ -37,19 +37,19 @@ It provides an interactive interface for checking a tabular dataset's level of a
 
 A tool for testing *differential privacy* mechanisms directly on raw datasets. *TrasgoDP* implements mechanisms for *ε-differential privacy* (numerical and categorical data), *(ε,δ)-differential privacy* (numerical data), and *metric privacy* (location-based data). These mechanisms use a local approach, adding noise directly to the raw data. For numerical records, users can apply the *Laplace* or *Gaussian* mechanisms. For categorical records, the *Exponential* mechanism and *Randomized Response* (for both binary attributes and the k-ary version) are available. For location-based records, users can apply the *geo-indistinguishability* mechanism for *metric privacy*. Utility metrics for the generated data include correlation loss (%) and three divergence-based metrics (TVD, KL, and JS). The service uses the *trasgoDP* library to apply *local differential privacy* techniques.
 
-**GitHub repository:** [trasgoDP](https://github.com/IFCA-Advanced-Computing/trasgoDP)
+**[GitHub repository](https://github.com/IFCA-Advanced-Computing/trasgoDP)
 
 ### PyDP
 
 This interactive tool is based on the *PyDP* Python library, developed by OpenMined. It generates privacy-preserving, *differential privacy*-based statistical reports from tabular datasets. Users can select a statistic from a list, include upper and lower bounds if needed, and customize the privacy budget (ε) using the *Laplace* mechanism.
 
-**GitHub repository:** [PyDP](https://github.com/OpenMined/PyDP)
+**[GitHub repository](https://github.com/OpenMined/PyDP)
 
 ### LDP-toolbox
 
 This service provides an interactive interface for analyzing, comparing, and visualizing *Local Differential Privacy (LDP)* protocols and their tradeoffs between utility, privacy, and attackability. It deploys the *LDP-toolbox* service developed by INRIA and INSA.
 
-**GitHub repository:** [LDP-toolbox](https://github.com/hharcolezi/ldp-toolbox)
+**[GitHub repository](https://github.com/hharcolezi/ldp-toolbox)
 
 **Demo:**
 
