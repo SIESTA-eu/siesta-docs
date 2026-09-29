@@ -9,7 +9,7 @@ Watch this demo to see how to sign in and navigate the dashboard:
 ```{youtube-thumbnail} https://www.youtube.com/watch?v=Tp3ORAHH0cY
 ```
 
-<table style="width: fit-content; max-width: 100%; margin-left: auto; margin-right: 0;">
+<table style="width: fit-content; max-width: 100%; margin-left: 0; margin-right: auto;">
 	<thead>
 		<tr><th>Section</th><th>Purpose</th></tr>
 	</thead>
