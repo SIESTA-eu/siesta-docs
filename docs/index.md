@@ -48,9 +48,9 @@ This work is funded by the European Union through the SIESTA project (Horizon Eu
 quickstart
 access
 dashboard
+catalog/index
 secret-management
 s3-storage
-catalog/index
 roles
 support
 ```
