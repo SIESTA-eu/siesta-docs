@@ -25,7 +25,7 @@ In **Service catalog**, you can review specific services. Each service card incl
 
 1. Read the description and make sure the service fits your needs.
 2. Check the configuration options it requires.
-3. Do not submit sensitive data.
+3. Check the level of sensitivity of your data before uoloading it.
 
 ## Dashboard tour
 
