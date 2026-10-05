@@ -36,10 +36,10 @@ Watch this demo to see how to sign in and navigate the dashboard:
 
 ## S3 storage
 
-SIESTA's S3 storage is provided by [MinIO](https://minio.cloud.eosc-siesta.eu) and is available directly from the dashboard's [**File Explorer**](https://dashboard.cloud.eosc-siesta.eu/file-explorer) section. S3 storage quotas vary by access group. Your assigned group determines the quota available to your account. See the [S3 storage page](s3-storage.md) for details and [Roles and permissions](roles.md) for the group definitions and quota table.
+SIESTA's S3 storage is provided by MinIO in the IFCA cluster and is preconfigured in Onyxia. It is available from the dashboard's [**File Explorer**](https://dashboard.cloud.eosc-siesta.eu/file-explorer) and through the [MinIO Console](https://minio-console.cloud.eosc-siesta.eu/login). Supported services can receive temporary credentials or a synchronized volume automatically. S3 storage quotas vary by access group. See the [S3 storage page](s3-storage.md) for connection details and [Roles and permissions](roles.md) for the group definitions and quota table.
 
 
 ## Secret management
 
-The dashboard's **My Secrets** section provides access to [Vault](https://vault.deployments.cloud.eosc-siesta.eu), SIESTA's secret-management service. See [Secret management](secret-management.md) for details.
+The dashboard's **My Secrets** section provides access to [Vault](https://vault.deployments.cloud.eosc-siesta.eu), SIESTA's secret-management service. Supported services can receive Vault connection variables and inject selected secrets as environment variables at launch. See [Secret management](secret-management.md) for details.
 

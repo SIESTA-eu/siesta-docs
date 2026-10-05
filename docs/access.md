@@ -9,7 +9,7 @@ The main entry point for users is the [SIESTA dashboard](https://dashboard.cloud
 
 ## Register an account
 
-When you select **Login**, SIESTA opens its central authentication page, powered by Keycloak. It offers federated sign-in through EOSC-EduGAIN and IFCA SSO, allowing you to authenticate with an existing institutional account.
+When you select **Login**, SIESTA opens its central authentication page, powered by Keycloak and extended with the [RCIAM group-management plugin](https://rciam.github.io/rciam-docs/docs/manager/group-management/). It offers federated sign-in through EOSC-EduGAIN and IFCA SSO, allowing you to authenticate with an existing institutional account. RCIAM also provides group enrollment, invitations, and group-specific roles; see [Roles and permissions](roles.md#group-administration).
 
 ```{image} /_static/siesta_login.png
 :alt: SIESTA login page showing the EOSC-EduGAIN and IFCA SSO sign-in options
@@ -18,7 +18,7 @@ When you select **Login**, SIESTA opens its central authentication page, powered
 
 ### Use a federated identity (recommended)
 
-This option is recommended for researchers and other users whith [EduGAIN](https://edugain.org/) credentials. It lets you authenticate with your institutional account, while SIESTA uses your account and group membership to determine which catalogs and services are available to you. Access depends on the groups assigned to your account; see [Roles and permissions](roles.md) for details.
+This option is recommended for researchers and other users with [EduGAIN](https://edugain.org/) credentials. It lets you authenticate with your institutional account, while SIESTA uses your account and group membership to determine which catalogs and services are available to you. Access depends on the groups assigned to your account; see [Roles and permissions](roles.md) for details.
 
 To get started, open the [SIESTA dashboard](https://dashboard.cloud.eosc-siesta.eu/), select **Login**, choose **EOSC-EduGAIN**, and select your institution. Then complete your institution's sign-in flow.
 
