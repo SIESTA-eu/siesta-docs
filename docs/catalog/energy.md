@@ -1,5 +1,11 @@
 # Energy forecasting catalog
 
+```{youtube} PmDICU4SLAQ
+:width: 100%
+:height: 400px
+:align: center
+```
+
 The **Energy forecasting catalog** comprises the components of SIESTA Use Case 3: *Energy Domain*.
 
 ```{figure} /_static/uc3-siesta-services.png
