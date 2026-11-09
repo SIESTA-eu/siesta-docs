@@ -6,7 +6,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent / "_ext"))
 
-extensions = ["myst_parser", "youtube_thumbnail"]
+extensions = ["sphinxcontrib.youtube", "myst_parser", "youtube_thumbnail"]
 source_suffix = {".rst": "restructuredtext", ".md": "markdown"}
 master_doc = "index"
 language = "en"
